@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="barswf_brook"
+	ProjectGUID="{2CF488A1-5851-4529-8FBC-452839047BA1}"
+	VCNestedProjectGUID="{F8140626-9C34-44A5-836A-89B01D3B0340}"
+	VCNestedProjectFileName="barswf_brook.vcproj">
+	<Configurations>
+		<Configuration
+			Name="Release|Win32">
+			<Tool
+				Name="CppCmplrTool"
+				Optimization="1000"
+				UseProcExt="6"/>
+		</Configuration>
+		<Configuration
+			Name="Release|x64">
+			<Tool
+				Name="CppCmplrTool"
+				GenerateAlternateCodePaths="0"/>
+		</Configuration>
+	</Configurations>
+	<Files/>
+</VisualStudioProject>

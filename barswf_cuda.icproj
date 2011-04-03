@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="barswf_cuda"
+	ProjectGUID="{ABEFEE04-3296-40EC-AA6E-2CFBC1012724}"
+	VCNestedProjectGUID="{88AF7026-9837-4088-93FB-135A1ACDE117}"
+	VCNestedProjectFileName="barswf_cuda.vcproj">
+	<Configurations>
+		<Configuration
+			Name="Release|Win32">
+			<Tool
+				Name="CppCmplrTool"
+				Optimization="1000"
+				GlobalOptimizations="true"
+				InterproceduralOptimization="2"
+				GenerateAlternateCodePaths="0"
+				UseProcessorExtensions="0"/>
+		</Configuration>
+		<Configuration
+			Name="Release|x64">
+			<Tool
+				Name="CppCmplrTool"
+				Optimization="1000"
+				GlobalOptimizations="true"
+				InterproceduralOptimization="2"
+				GenerateAlternateCodePaths="0"
+				UseProcessorExtensions="0"/>
+		</Configuration>
+	</Configurations>
+	<Files/>
+</VisualStudioProject>

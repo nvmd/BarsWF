@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="md5">
+</Property><Property Name="Solution File" Value="C:\My\work\md5\old\md5.sln">
+</Property><Property Name="User Options File" Value="C:\My\work\md5\old\md5.suo">
+</Property><Property Name="Date" Value="28 мая 2008 г.">
+</Property><Property Name="Time" Value="1:07">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="2" Project="" Source="md5.sln" Description="Error creating backup file: C:\My\work\md5\old\md5.sln.old">
+</Event><Event ErrorLevel="2" Project="" Source="md5.suo" Description="Error creating backup file: C:\My\work\md5\old\md5.suo.old">
+</Event><Event ErrorLevel="2" Project="md5" Source="md5\md5.vcproj" Description="The following error has occurred during XML parsing:&#xA;&#xA;File: C:\My\work\md5\old\md5\md5.vcproj&#xA;Line: 10&#xA;Column: 2&#xA;Error Message:&#xA;'9,00' violates enumeration constraint of '7.00 7,00 7.10 7,10 8.00 8,00'.&#xA;The attribute 'Version' with value '9,00' failed to parse.&#xA;&#xA;The file 'C:\My\work\md5\old\md5\md5.vcproj' has failed to load.">
+</Event><Event ErrorLevel="2" Project="md5" Source="md5\md5.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="md5" Source="md5\md5.vcproj" Description="Not Converted">
+</Event></UpgradeLog>
