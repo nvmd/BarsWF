@@ -3,4 +3,5 @@
 *.ncb
 *.pdb
 *.user
-
+*.sdf
+*.opensdf
