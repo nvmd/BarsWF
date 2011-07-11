@@ -361,7 +361,8 @@ void check_short_psw()
 	}
 	if(g->is_finished)
 	{
-		print_result();exit(0);
+		print_result();
+		exit(0);
 	}
 }
 
