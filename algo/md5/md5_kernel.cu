@@ -2,7 +2,7 @@
 //we obviously using CUDA :-D
 #define CUDA
 
-#include "cutil.h"
+#include <cuda.h>
 #include "md5_kernel.h"
 #include "md5.h"
 
